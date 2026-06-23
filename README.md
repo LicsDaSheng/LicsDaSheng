@@ -14,8 +14,8 @@
 
 ### 🚀 关于我
 
-- 🔭 目前专注于 **Go 后端 / 云原生 / 全栈开发**
-- 🌱 持续学习中:**系统设计、Kubernetes、AI 工程化**
+- 🔭 目前专注于 **AI 工程化 · 智能体(Agent) · FDE(Forward Deployed Engineer)**
+- 🌱 持续深耕:**Agent 架构、LLM 应用落地、工程化交付**
 - ✍️ 在 [我的博客](https://LicsDaSheng.github.io) 分享日常技术心得
 - 💬 可以和我聊聊:**工程实践、效率工具、开源**
 - 📫 联系方式:**once_key@126.com**
