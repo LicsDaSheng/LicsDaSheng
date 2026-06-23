@@ -1,7 +1,7 @@
-<h1 align="center">你好,我是 LicsDaSheng 👋</h1>
+<h1 align="center">你好,我是 scott,大家喜欢喊我大圣 👋</h1>
 
 <p align="center">
-  <em>齐天大圣 · 一个热爱折腾的工程师 🐒</em>
+  <em>大圣 · 一个热爱折腾的工程师 🐒</em>
 </p>
 
 <p align="center">
@@ -18,16 +18,15 @@
 - 🌱 持续深耕:**Agent 架构、LLM 应用落地、工程化交付**
 - ✍️ 在 [我的博客](https://LicsDaSheng.github.io) 分享日常技术心得
 - 💬 可以和我聊聊:**工程实践、效率工具、开源**
-- 📫 联系方式:**once_key@126.com**
+- 📫 联系方式:**<once_key@126.com>**
 - ⚡ 一句话:*写代码,也写人生*
 
 ---
 
 ### 🛠️ 技术栈
 
-<sub>以下按我所有公开仓库的真实语言占比排序</sub>
-
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
