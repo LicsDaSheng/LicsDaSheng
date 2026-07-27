@@ -22,7 +22,6 @@
 
 ---
 
-### 🛠️ 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -39,10 +38,9 @@
 
 ---
 
-### 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LicsDaSheng&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LicsDaSheng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=6b4e16&icon_color=d4af37&bg_color=30,fff9e6,fff1bf,ffe27a,ffd24d,ffbf00" alt="GitHub Stats" height="165">
 </p>
 
 <p align="center">
