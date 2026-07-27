@@ -1,7 +1,7 @@
-<h1 align="center">你好,我是 scott,大家喜欢喊我大圣 👋</h1>
+<h1 align="center">Hi,I am chuansheng li 👋</h1>
 
 <p align="center">
-  <em>大圣 · 一个热爱折腾的工程师 🐒</em>
+  <em>大圣 · 一个爱折腾的Coder 🐒</em>
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@
 - ✍️ 在 [我的博客](https://LicsDaSheng.github.io) 分享日常技术心得
 - 💬 可以和我聊聊:**工程实践、效率工具、开源**
 - 📫 联系方式:**<once_key@126.com>**
-- ⚡ 一句话:*写代码,也写人生*
 
 ---
 
